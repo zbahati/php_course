@@ -12,3 +12,6 @@ echo DB;
 
 define("Name", "Bahati");
 echo Name;
+
+CONST DB1 = 'BAHATI';
+echo DB1;
